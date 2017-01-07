@@ -44,7 +44,7 @@ ScreenShoots :
 
 4. 
 
-<img src="https://github.com/nurwid28/Intent3/blob/master/25_XI%20RPL%203_Nur%20Widya%20Astutik_intent3d.png">
+<img src="https://github.com/nurwid28/Intent3/blob/master/ralatintent3.png">
 
 5. 
 
